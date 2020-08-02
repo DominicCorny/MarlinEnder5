@@ -1530,8 +1530,8 @@
   #define PROBE_PT_1_Y 49
   #define PROBE_PT_2_X 51
   #define PROBE_PT_2_Y 49
-  /#define PROBE_PT_3_X 174
-  /#define PROBE_PT_3_Y 171
+  #define PROBE_PT_3_X 174
+  #define PROBE_PT_3_Y 171
 #endif
 
 /**
